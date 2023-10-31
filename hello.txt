@@ -1,4 +1,4 @@
 hello git.
 hello TU Darmstadt.
-hello SDMS.
+hello SDMS. main
 hello java
